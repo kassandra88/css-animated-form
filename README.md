@@ -10,7 +10,7 @@ Link to registration
 
 ### It has the following animations:
 
-Smooth label slide up on focus
+Smooth label slide up on focus &
 Input border color change on focus
 
 ### Running Locally
