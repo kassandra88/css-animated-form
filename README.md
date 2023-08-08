@@ -15,7 +15,7 @@ Input border color change on focus
 
 ### Running Locally
 To run this project locally:
-Clone this repo
+Clone this repo &
 Open index.html in your browser
 
 ### Built With
